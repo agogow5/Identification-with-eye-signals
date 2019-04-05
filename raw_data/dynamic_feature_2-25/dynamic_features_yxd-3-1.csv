@@ -1,0 +1,2 @@
+,A_pos_peak_time,MAX_pos_peak_time,MIN_pos_peak_time,A_neg_peak_time,MAX_neg_peak_time,MIN_neg_peak_time,A_close time,MAX_close time,MIN_close time,A_open time,MAX_open time,MIN_open time,A_blink time,MAX_blink time,MIN_blink time,A_peak ratio,MAX_peak ratio,MIN_peak ratio,A_peak dist ratio,MAX_peak dist ratio,MIN_peak dist ratio,A_area ratio,MAX_area ratio,MIN_area ratio
+val,42.8,44.8,82.4,137.2,219.6,2.47,0.38,1.61,50,52,88,150,238,2.86,0.44,1.8,38,40,76,122,204,2.21,0.32,1.38
